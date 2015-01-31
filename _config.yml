@@ -1,0 +1,12 @@
+# Site settings
+title: Seunghwan Ted Park
+email: itstedpark@gmail.com
+description: "The happiest thing in my life is sharing everything I've known with more people."
+baseurl: ""
+url: "http://itstedpark.tumblr.com"
+twitter_username: itstedpark
+github_username:  tedpark
+
+# Build settings
+markdown: kramdown
+permalink: pretty
