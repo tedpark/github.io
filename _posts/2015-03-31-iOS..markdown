@@ -1,15 +1,9 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
-date:   2015-01-31 17:58:20
+date:   2015-03-31 17:58:20
 categories: jekyll update
 ---
 
 # iOS
 sdsd
-You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
-To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
-
-
-[jekyll-gh]: https://github.com/jekyll/jekyll
-[jekyll]:    http://jekyllrb.com
