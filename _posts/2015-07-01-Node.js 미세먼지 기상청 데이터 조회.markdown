@@ -1,5 +1,7 @@
 ## 1. 미세먼지
 
+-이것은 스크린샷!
+
 ![MacDown Screenshot](https://github.com/tedpark/tedpark.github.io/blob/master/img/Dust/1.png?raw=true)
 
 
