@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2015-01-31 17:58:20
-categories: jekyll update
+title:  "Node.js 미세먼지 기상청 데이터 조회"
+date:   2015-07-1 17:58:20
+categories: Node
 ---
 
 ## 1. 미세먼지
@@ -20,7 +20,7 @@ categories: jekyll update
 
 -2015.6 확정된 es6 사용
 
-얼마전 es6 가 확정되었다 
+얼마전 es6 가 확정되었다
 
 이 정도면 다른 javascript 컴파일러는
 
@@ -29,8 +29,3 @@ categories: jekyll update
 
 ## 3. github 주소
 [다운은 여기!](https://github.com/tedpark/SeoulMicroDustNodeApi)
-
-
-
-
- 
