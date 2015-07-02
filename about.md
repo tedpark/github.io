@@ -9,7 +9,10 @@ permalink: /about/
 
 ## 1. Contenter
 <b>tag</b>
+
 <p style='color:red'>This is some red text.</p>
+
+
 <!--![](https://github.com/tedpark/tedpark.github.io/blob/master/img/2.png?raw=true)-->
 
 <img src="https://github.com/tedpark/tedpark.github.io/blob/master/img/2.png?raw=true" alt="alt text" width="700">
