@@ -82,26 +82,24 @@ permalink: /about/
 ####[우리말겨루기 다운은 여기!](https://itunes.apple.com/us/app/ulimal-gyeolugi/id447178484?mt=8)
 
 ### 대학열람실 좌석현황
-![MacDown Screenshot](https://github.com/tedpark/tedpark.github.io/blob/master/img/Univ/1.png?raw=true) 
+![MacDown Screenshot](https://github.com/tedpark/tedpark.github.io/blob/master/img/Univ/1.png?raw=true)
 ![MacDown Screenshot](https://github.com/tedpark/tedpark.github.io/blob/master/img/Univ/2.png?raw=true)
 
 <!--####[다운은 여기!](https://itunes.apple.com/us/app/daehag-yeollamsil-jwaseog/id368326805?mt=8)-->
 
-## 2. Contenter
+<!-- ## 2. Contenter
 
 #####거인의 어깨 위에 올라보는 경험은 좋은 경험이였다.
 #####하지만 겨우 SI 프로젝트나 하는 일에 재능을 낭비하는게 옳은 일은 아니라고 생각했다.
 #####거인의 어깨가 나의 무게를 견딜 수 있는지 고민은 끝났다.
 #####앞으로의 나의 거인은 Contenter 이다.
-#####나의 무게를 견딜 수 있는 그런 녀석이 될 것이다. 
+#####나의 무게를 견딜 수 있는 그런 녀석이 될 것이다.  -->
 
 
-## 3. 연혁.
+## 2. 연혁.
 #### - 서울시 2030 청년창업 1000 프로젝트 강남센터 지식창업 2기 (2010.7 ~ 2011.7)
 #### - Contenter., Inc. (2010.10.1)
 #### - 서울시 용산 청년창업 플러스 센터 입주 (2011.8 ~ 2012.7)
 #### - 중기청 앱 창업 전문코스 2기 선정 (2012.8 ~ 2012.12)
 #### - 가산동 앱 누림터 입주 (2013.1 ~ 2014.1)
-#### - Global Software 로의 준비중. (2014.1 ~ ) 
-
-
+#### - Global Software 로의 준비중. (2014.1 ~ )
