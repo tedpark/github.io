@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "Node.js 미세먼지 기상청 데이터 조회"
+date:   2015-07-1 17:58:20
+categories: Node
+---
+
+## 1. 미세먼지
+
+-이것은 스크린샷!
+
+![MacDown Screenshot](https://github.com/tedpark/tedpark.github.io/blob/master/img/Dust/1.png?raw=true)
+
+
+## 2. 개발 스택.
+-iojs
+
+최신 버전 사용중
+
+
+-2015.6 확정된 es6 사용
+
+얼마전 es6 가 확정되었다
+
+이 정도면 다른 javascript 컴파일러는
+
+필요 없지 않나 싶을 정도로 좋아졌다
+
+
+## 3. github 주소
+[다운은 여기!](https://github.com/tedpark/SeoulMicroDustNodeApi)
