@@ -33,6 +33,7 @@ title: About
 ### Book Manager -Read N Done-
 ![MacDown Screenshot](http://a4.mzstatic.com/us/r30/Purple3/v4/6c/bc/f8/6cbcf877-6b1a-2e15-d295-0e7e5bfdbc2d/screen322x572.jpeg)
 ![MacDown Screenshot](http://a5.mzstatic.com/us/r30/Purple5/v4/24/4f/84/244f8437-2870-5af8-906c-ebec85cf0b7e/screen322x572.jpeg)
+
 ####[Book Manager 다운은 여기!](https://itunes.apple.com/us/app/book-manager-read-n-done/id591405018?mt=8)
 
 ### ShareBooks
@@ -56,6 +57,7 @@ title: About
 ![MacDown Screenshot](http://a2.mzstatic.com/us/r30/Purple6/v4/f6/ba/90/f6ba907d-7c46-8d42-2d82-5dcd419be644/screen568x568.jpeg)
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/0JWIJra9-EY/0.jpg)](http://www.youtube.com/watch?v=0JWIJra9-EY)
+
 
 ####[Swim fish 다운은 여기!](https://itunes.apple.com/us/app/swim-fish-to-infinity-beyond/id463263774?mt=8)
 
