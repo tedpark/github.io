@@ -64,6 +64,7 @@ title: About
 ### Todo Manager -Todo N Done-
 ![MacDown Screenshot](http://a4.mzstatic.com/us/r30/Purple1/v4/b4/0a/f2/b40af22e-8bf2-2fc7-f174-ec62fe6d13e3/screen322x572.jpeg)
 ![MacDown Screenshot](http://a2.mzstatic.com/us/r30/Purple3/v4/5e/c0/5d/5ec05d6d-b6e4-d37b-937a-86957744436d/screen322x572.jpeg)
+
 ####[Todo 다운은 여기!](https://itunes.apple.com/us/app/todo-manager-todo-n-done/id456112705?mt=8)
 
 
@@ -96,9 +97,15 @@ title: About
 
 
 ## 2. 연혁.
+
 #### - 서울시 2030 청년창업 1000 프로젝트 강남센터 지식창업 2기 (2010.7 ~ 2011.7)
+
 #### - Contenter., Inc. (2010.10.1)
+
 #### - 서울시 용산 청년창업 플러스 센터 입주 (2011.8 ~ 2012.7)
+
 #### - 중기청 앱 창업 전문코스 2기 선정 (2012.8 ~ 2012.12)
+
 #### - 가산동 앱 누림터 입주 (2013.1 ~ 2014.1)
+
 #### - Global Software 로의 준비중. (2014.1 ~ )
