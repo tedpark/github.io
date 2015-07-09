@@ -1,6 +1,6 @@
-name: Solar Theme
+name: Ted Park
 url: http://example.org
-description: A stylish blog using the Solarized color palette
+description: "The happiest thing in my life is sharing everything I've known with more people."
 
 permalink: /:year/:month/:day/:title/
 paginate: 10
