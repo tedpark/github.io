@@ -1,7 +1,7 @@
 name: White Paper
 markdown: redcarpet
 pygments: true
-url: http://vinitkumar.me/white-paper
+url: http://tedpark.github.io
 paginate: 8
 description:     Jekyll theme for Programmers
 intro: White Paper is a Jekyll theme most suited to be used on tech blogs that like their content to shine.
@@ -13,12 +13,12 @@ disqus_shortname:
 
 # Owner/author information
 owner:
-  name:           <your-name-here>
+  name:           ted park
   avatar:         <avatar-image-link>
-  email:          <your-email-address>
+  email:          ceo@commitcareer.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:
-  github:
+  twitter:        itstedpark
+  github:         tedpark
   stackexchange:
   # For Google Authorship https://plus.google.com/authorship
   google_plus:
